@@ -1,0 +1,21 @@
+
+#main{
+    width: 100%;
+    margin: auto;
+    padding: 10px 20px;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    
+}
+#img-div{
+    width: 70%;
+    margin: auto;
+}
+#img-caption>p{
+    width: 80%;
+    margin: auto;
+}
